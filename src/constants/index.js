@@ -123,7 +123,7 @@ const experiences = [
     date: 'March 2022 - April 2022',
     points: [
       'At the beginning, it was all dark.',
-      'Im joking. at the beggining, I joing "CodingAcademy" and started my journey of coding.',
+      'Im joking. at the beggining, I joined "CodingAcademy" and started my journey of coding.',
       'It was hard for me taking a course without too much knowledge to begin with and I realized it might be easier for me to start coding alone.',
       'So I quit and started learning from scratch.',
     ],
