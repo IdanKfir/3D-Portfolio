@@ -163,7 +163,7 @@ const experiences = [
     points: [
       'Develop and maintain web applications using React.js and other related technologies.',
       'Collaborate with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implemente responsive design and ensuring cross-browser compatibility.',
+      'Implement responsive design and ensuring cross-browser compatibility.',
       'Participate in code reviews and providing constructive feedback to other developers.',
     ],
   },
@@ -216,7 +216,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://github.com/IdanKfir/Proshop',
   },
   {
     name: 'Dev Connect',
@@ -237,7 +237,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://github.com/IdanKfir/ikdev-connect',
   },
   {
     name: 'Ik News',
@@ -258,7 +258,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://github.com/IdanKfir/NewsGrid',
   },
 ];
 
