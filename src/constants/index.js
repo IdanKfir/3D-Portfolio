@@ -116,55 +116,55 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'React.js Developer',
-    company_name: 'Starbucks',
+    title: 'FullStack Developer',
+    company_name: 'CodingAcademy',
     icon: starbucks,
     iconBg: '#383E56',
-    date: 'March 2020 - April 2021',
+    date: 'March 2022 - April 2022',
     points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
+      'At the beginning, it was all dark.',
+      'Im joking. at the beggining, I joing "CodingAcademy" and started my journey of coding.',
+      'It was hard for me taking a course without too much knowledge to begin with and I realized it might be easier for me to start coding alone.',
+      'So I quit and started learning from scratch.',
     ],
   },
   {
-    title: 'React Native Developer',
-    company_name: 'Tesla',
+    title: 'FrontEnd Development',
+    company_name: 'Udemy',
     icon: tesla,
     iconBg: '#E6DEDD',
-    date: 'Jan 2021 - Feb 2022',
+    date: 'May 2022 - Sep 2022',
     points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
+      'So to begin with I took 11 Courses which was Project oriented Im gonna name here and take them as references for experience with addition to the 100+ Projects I made from them.',
+      'I started with 2 courses; UI&UX Course, and Design Rules Course.',
+      'Next I took HTML & CSS Course, following by a full JavaScript Fundementals Course.',
+      'After that I took 2 Courses in React.js and 2 Fullstack Courses, then a course In Algorithms & Data Structures - Javascript.',
     ],
   },
   {
     title: 'Web Developer',
-    company_name: 'Shopify',
+    company_name: 'Udemy',
     icon: shopify,
     iconBg: '#383E56',
-    date: 'Jan 2022 - Jan 2023',
+    date: 'Sep 2023 - Mar 2023',
     points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implementing responsive design and ensuring cross-browser compatibility.',
+      'and to Finish I took 2 Courses for Projects - one was for 20 Projects in Vanilla-JavaScript,',
+      ' and One was 50 Projects - One a day which made my github explode with new real-life scenario projects.',
+      'for now I start Implementing responsive design and ensuring cross-browser compatibility.',
       'Participating in code reviews and providing constructive feedback to other developers.',
     ],
   },
   {
-    title: 'Full stack Developer',
-    company_name: 'Meta',
+    title: 'Fullstack Developer',
+    company_name: 'Looking for a job',
     icon: meta,
     iconBg: '#E6DEDD',
-    date: 'Jan 2023 - Present',
+    date: 'May 2023 - Present',
     points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
+      'Develop and maintain web applications using React.js and other related technologies.',
+      'Collaborate with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
+      'Implemente responsive design and ensuring cross-browser compatibility.',
+      'Participate in code reviews and providing constructive feedback to other developers.',
     ],
   },
 ];
@@ -172,7 +172,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      'I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.',
+      'I thought it was impossible to make a website as beautiful as our product, but Idan proved me wrong.',
     name: 'Sara Lee',
     designation: 'CFO',
     company: 'Acme Co',
@@ -180,7 +180,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Idan does.",
     name: 'Chris Brown',
     designation: 'COO',
     company: 'DEF Corp',
@@ -188,7 +188,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Idan optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: 'Lisa Wang',
     designation: 'CTO',
     company: '456 Enterprises',
@@ -198,9 +198,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: 'Car Rent',
+    name: 'Pro Shop',
     description:
-      'Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.',
+      'Web-based platform that allows users to search, buy, and manage account via website with various products, admin managment and a convenient and efficient solution for digital needs and shopping.',
     tags: [
       {
         name: 'react',
@@ -219,16 +219,16 @@ const projects = [
     source_code_link: 'https://github.com/',
   },
   {
-    name: 'Job IT',
+    name: 'Dev Connect',
     description:
-      'Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.',
+      'This is a MERN stack application, It is a small social network app that includes authentication, profiles and forum posts...',
     tags: [
       {
         name: 'react',
         color: 'blue-text-gradient',
       },
       {
-        name: 'restapi',
+        name: 'mongodb',
         color: 'green-text-gradient',
       },
       {
@@ -240,12 +240,12 @@ const projects = [
     source_code_link: 'https://github.com/',
   },
   {
-    name: 'Trip Guide',
+    name: 'Ik News',
     description:
-      'A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.',
+      'A simple news platform that allows users to see interactive posts, categories, and access newsletter, I learned css html while building this so it has much to add and edit.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'html',
         color: 'blue-text-gradient',
       },
       {
