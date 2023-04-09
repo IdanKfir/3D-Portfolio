@@ -52,7 +52,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: 'Frontend Developer',
+    title: 'Fullstack Developer',
     icon: backend,
   },
   {
@@ -209,11 +209,11 @@ const projects = [
         color: 'blue-text-gradient',
       },
       {
-        name: 'mongodb',
+        name: 'javascript',
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'mongodb',
         color: 'pink-text-gradient',
       },
     ],
@@ -249,10 +249,6 @@ const projects = [
       {
         name: 'html',
         color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
       },
       {
         name: 'css',
