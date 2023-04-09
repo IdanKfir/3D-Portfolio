@@ -27,6 +27,8 @@ import {
   udemy,
   job,
   cacademy,
+  githubfinder,
+  hangman,
 } from '../assets';
 
 export const navLinks = [
@@ -264,9 +266,9 @@ const projects = [
     source_code_link2: 'https://idanknews.netlify.app/',
   },
   {
-    name: 'Shirt Model',
+    name: '3D Shirt Model',
     description:
-      'A simple news platform that allows users to see interactive posts, categories, and access newsletter, I learned css html while building this so it has much to add and edit.',
+      "A project that has a 3D-Shirt-Model which is responsive, has Color changes, texture and you can upload logo to the model. I was trying to use OpenAI till they decided their API Isn' so open anymore.",
     tags: [
       {
         name: 'react',
@@ -277,13 +279,57 @@ const projects = [
         color: 'pink-text-gradient',
       },
       {
-        name: 'framer',
+        name: 'openai',
         color: 'green-text-gradient',
       },
     ],
     image: dshirt,
     source_code_link: 'https://github.com/IdanKfir/3D-Shirt',
     source_code_link2: 'https://ik-shirt.vercel.app/',
+  },
+  {
+    name: 'Github Finder',
+    description:
+      'React app to search Github profiles. This app uses the Context API along with the useContext and useReducer hooks for state management.',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'javascript',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'css',
+        color: 'green-text-gradient',
+      },
+    ],
+    image: githubfinder,
+    source_code_link: 'https://github.com/IdanKfir/github-finder',
+    source_code_link2: 'https://ikgithub-finder.vercel.app/',
+  },
+  {
+    name: 'Hangman game',
+    description:
+      'Select a letter to figure out a hidden word in a set amount of chances, Display hangman pole and figure using SVG.',
+    tags: [
+      {
+        name: 'html',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'css',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'javascript',
+        color: 'green-text-gradient',
+      },
+    ],
+    image: hangman,
+    source_code_link: 'https://github.com/IdanKfir/Hangman',
+    source_code_link2: 'https://github.com/IdanKfir/Hangman',
   },
 ];
 

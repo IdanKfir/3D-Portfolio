@@ -35,6 +35,8 @@ import carrent from './carrent.png';
 import jobit from './jobit.png';
 import tripguide from './tripguide.png';
 import dshirt from './dshirt.png';
+import hangman from './hangman.png';
+import githubfinder from './githubfinder.png';
 
 export {
   click,
@@ -70,4 +72,6 @@ export {
   tripguide,
   cacademy,
   dshirt,
+  githubfinder,
+  hangman,
 };
