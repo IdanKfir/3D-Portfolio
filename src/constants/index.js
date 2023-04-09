@@ -22,6 +22,7 @@ import {
   carrent,
   jobit,
   tripguide,
+  dshirt,
   threejs,
   udemy,
   job,
@@ -220,6 +221,7 @@ const projects = [
     ],
     image: carrent,
     source_code_link: 'https://github.com/IdanKfir/Proshop',
+    source_code_link2: 'https://ikproshop.herokuapp.com/',
   },
   {
     name: 'Dev Connect',
@@ -241,6 +243,7 @@ const projects = [
     ],
     image: jobit,
     source_code_link: 'https://github.com/IdanKfir/ikdev-connect',
+    source_code_link2: 'https://ikdev-connect-production.up.railway.app/',
   },
   {
     name: 'Ik News',
@@ -258,6 +261,29 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: 'https://github.com/IdanKfir/NewsGrid',
+    source_code_link2: 'https://idanknews.netlify.app/',
+  },
+  {
+    name: 'Shirt Model',
+    description:
+      'A simple news platform that allows users to see interactive posts, categories, and access newsletter, I learned css html while building this so it has much to add and edit.',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'three.js',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'framer',
+        color: 'green-text-gradient',
+      },
+    ],
+    image: dshirt,
+    source_code_link: 'https://github.com/IdanKfir/3D-Shirt',
+    source_code_link2: 'https://ik-shirt.vercel.app/',
   },
 ];
 
