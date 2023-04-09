@@ -40,12 +40,12 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a Frontend / Fullstack developer at the beginning of my journey with
-        experience in CSS,HTML and JavaScript, work with frameworks like React,
-        Node.js, and Three.js. I'm a quick learner and open to job where I can
-        collaborate with teamates and clients, create efficient, scalable, and
-        user-friendly solutions that solve real-world problems. Lets work
-        together to bring your ideas to life!
+        I'm a Fullstack developer at the beginning of my journey with experience
+        in CSS,HTML and JavaScript, work with frameworks like React, Node.js,
+        Express, MongoDB and Three.js and Next.js. I'm a quick learner and open
+        to job where I can collaborate with teamates and clients, create
+        efficient, scalable, and user-friendly solutions that solve real-world
+        problems. Lets work together to bring your ideas to life!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

@@ -122,10 +122,10 @@ const experiences = [
     iconBg: '#383E56',
     date: 'March 2022 - April 2022',
     points: [
-      'At the beginning, it was all dark.',
-      'Im joking. at the beggining, I joined "CodingAcademy" and started my journey of coding.',
-      'It was hard for me taking a course without too much knowledge to begin with and I realized it might be easier for me to start coding alone.',
-      'So I quit and started learning from scratch.',
+      'The start of My journey was at when I Joined Coding Academy.',
+      'That was basically my guide, I joined "CodingAcademy" was the start of the road practically but it wasn\'t enough.',
+      'I had real fun and learned the basics of web development, and the industry overall.',
+      'built small to big projects and coded intreview questions from masters.',
     ],
   },
   {
@@ -135,7 +135,7 @@ const experiences = [
     iconBg: '#E6DEDD',
     date: 'May 2022 - Sep 2022',
     points: [
-      'So to begin with I took 11 Courses which was Project oriented Im gonna name here and take them as references for experience with addition to the 100+ Projects I made from them.',
+      'After taking the course at Coding Academy I felt I needed more knowledge so I took 11 more Courses which was Project oriented Im gonna name here and take them as references for experience with addition to the 100+ Projects I made from them.',
       'I started with 2 courses; UI&UX Course, and Design Rules Course.',
       'Next I took HTML & CSS Course, following by a full JavaScript Fundementals Course.',
       'After that I took 2 Courses in React.js and 2 Fullstack Courses, then a course In Algorithms & Data Structures - Javascript.',
