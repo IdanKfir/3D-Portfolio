@@ -25,6 +25,7 @@ import {
   threejs,
   udemy,
   job,
+  cacademy,
 } from '../assets';
 
 export const navLinks = [
@@ -120,7 +121,7 @@ const experiences = [
   {
     title: 'FullStack Developer',
     company_name: 'CodingAcademy',
-    icon: starbucks,
+    icon: cacademy,
     iconBg: '#383E56',
     date: 'March 2022 - April 2022',
     points: [
