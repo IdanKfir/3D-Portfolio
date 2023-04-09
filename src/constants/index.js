@@ -23,6 +23,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  udemy,
+  job,
 } from '../assets';
 
 export const navLinks = [
@@ -122,8 +124,8 @@ const experiences = [
     iconBg: '#383E56',
     date: 'March 2022 - April 2022',
     points: [
-      'The start of My journey was at when I Joined Coding Academy.',
-      'That was basically my guide, I joined "CodingAcademy" was the start of the road practically but it wasn\'t enough.',
+      'The start of My journey was when I joined "Coding Academy".',
+      "That was basically where I learned the fundementals of web; the start of the road practically but it wasn't enough.",
       'I had real fun and learned the basics of web development, and the industry overall.',
       'built small to big projects and coded intreview questions from masters.',
     ],
@@ -131,11 +133,11 @@ const experiences = [
   {
     title: 'FrontEnd Development',
     company_name: 'Udemy',
-    icon: tesla,
+    icon: udemy,
     iconBg: '#E6DEDD',
     date: 'May 2022 - Sep 2022',
     points: [
-      'After taking the course at Coding Academy I felt I needed more knowledge so I took 11 more Courses which was Project oriented Im gonna name here and take them as references for experience with addition to the 100+ Projects I made from them.',
+      'After taking the course at Coding Academy I felt I needed more knowledge so I took 11 online Courses which was Project oriented Im gonna name here and take them as references for experience with addition to the 100+ Projects I made from them.',
       'I started with 2 courses; UI&UX Course, and Design Rules Course.',
       'Next I took HTML & CSS Course, following by a full JavaScript Fundementals Course.',
       'After that I took 2 Courses in React.js and 2 Fullstack Courses, then a course In Algorithms & Data Structures - Javascript.',
@@ -144,7 +146,7 @@ const experiences = [
   {
     title: 'Web Developer',
     company_name: 'Udemy',
-    icon: shopify,
+    icon: udemy,
     iconBg: '#383E56',
     date: 'Sep 2023 - Mar 2023',
     points: [
@@ -157,7 +159,7 @@ const experiences = [
   {
     title: 'Fullstack Developer',
     company_name: 'Looking for a job',
-    icon: meta,
+    icon: job,
     iconBg: '#E6DEDD',
     date: 'May 2023 - Present',
     points: [
@@ -173,7 +175,7 @@ const testimonials = [
   {
     testimonial:
       'I thought it was impossible to make a website as beautiful as our product, but Idan proved me wrong.',
-    name: 'Sara Lee',
+    name: 'Ariana Grande',
     designation: 'CFO',
     company: 'Acme Co',
     image: 'https://randomuser.me/api/portraits/women/4.jpg',
