@@ -331,6 +331,27 @@ const projects = [
     source_code_link: 'https://github.com/IdanKfir/Hangman',
     source_code_link2: 'https://github.com/IdanKfir/Hangman',
   },
+  {
+    name: 'House Retail',
+    description: 'House retail project I built with react',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'javascript',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'css',
+        color: 'green-text-gradient',
+      },
+    ],
+    image: hangman,
+    source_code_link: 'https://github.com/IdanKfir/ik-houseretail',
+    source_code_link2: 'https://ik-houseretail.netlify.app/',
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
