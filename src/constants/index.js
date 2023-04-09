@@ -29,6 +29,7 @@ import {
   cacademy,
   githubfinder,
   hangman,
+  houseretail,
 } from '../assets';
 
 export const navLinks = [
@@ -348,7 +349,7 @@ const projects = [
         color: 'green-text-gradient',
       },
     ],
-    image: hangman,
+    image: houseretail,
     source_code_link: 'https://github.com/IdanKfir/ik-houseretail',
     source_code_link2: 'https://ik-houseretail.netlify.app/',
   },

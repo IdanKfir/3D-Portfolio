@@ -37,6 +37,7 @@ import tripguide from './tripguide.png';
 import dshirt from './dshirt.png';
 import hangman from './hangman.png';
 import githubfinder from './githubfinder.png';
+import houseretail from './houseretail.png';
 
 export {
   click,
@@ -74,4 +75,5 @@ export {
   dshirt,
   githubfinder,
   hangman,
+  houseretail,
 };
