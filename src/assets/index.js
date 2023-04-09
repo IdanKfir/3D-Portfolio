@@ -27,6 +27,7 @@ import starbucks from './company/starbucks.png';
 import tesla from './company/tesla.png';
 import udemy from './company/udemy.png';
 import job from './company/job.png';
+import cacademy from './company/cacademy.png';
 
 import carrent from './carrent.png';
 import jobit from './jobit.png';
@@ -63,4 +64,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  cacademy,
 };
