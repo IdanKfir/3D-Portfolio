@@ -30,6 +30,7 @@ import {
   githubfinder,
   hangman,
   houseretail,
+  minecraft,
 } from '../assets';
 
 export const navLinks = [
@@ -127,7 +128,7 @@ const experiences = [
     company_name: 'CodingAcademy',
     icon: cacademy,
     iconBg: '#383E56',
-    date: 'March 2022 - April 2022',
+    date: 'March 2022 - June 2022',
     points: [
       'The start of My journey was when I joined "Coding Academy".',
       "That was basically where I learned the fundementals of web; the start of the road practically but it wasn't enough.",
@@ -140,7 +141,7 @@ const experiences = [
     company_name: 'Udemy',
     icon: udemy,
     iconBg: '#E6DEDD',
-    date: 'May 2022 - Sep 2022',
+    date: 'June 2022 - Sep 2022',
     points: [
       'After taking the course at Coding Academy I felt I needed more knowledge so I took 11 online Courses which was Project oriented Im gonna name here and take them as references for experience with addition to the 100+ Projects I made from them.',
       'I started with 2 courses; UI&UX Course, and Design Rules Course.',
@@ -153,10 +154,10 @@ const experiences = [
     company_name: 'Udemy',
     icon: udemy,
     iconBg: '#383E56',
-    date: 'Sep 2023 - Mar 2023',
+    date: 'Sep 2022 - Mar 2023',
     points: [
-      'and to Finish I took 2 Courses for Projects - one was for 20 Projects in Vanilla-JavaScript,',
-      ' and One was 50 Projects - One a day which made my github explode with new real-life scenario projects.',
+      'to Finish I took 2 Courses for Projects - one was for 20 Projects in Vanilla-JavaScript,',
+      'and One was 50 Projects - One a day which made my github explode with new real-life scenario projects.',
       'for now I start Implementing responsive design and ensuring cross-browser compatibility.',
       'Participating in code reviews and providing constructive feedback to other developers.',
     ],
@@ -287,6 +288,27 @@ const projects = [
     image: dshirt,
     source_code_link: 'https://github.com/IdanKfir/3D-Shirt',
     source_code_link2: 'https://ik-shirt.vercel.app/',
+  },
+  {
+    name: '3D Minecraft Clone',
+    description: 'This project is just me trying to mimic Minecraft in React.',
+    tags: [
+      {
+        name: 'javascript',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'react',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'three.js',
+        color: 'green-text-gradient',
+      },
+    ],
+    image: minecraft,
+    source_code_link: 'https://ik-minecraft.vercel.app/',
+    source_code_link2: 'https://github.com/IdanKfir/Minecraft-Clone',
   },
   {
     name: 'Github Finder',
