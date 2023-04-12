@@ -307,8 +307,8 @@ const projects = [
       },
     ],
     image: minecraft,
-    source_code_link: 'https://ik-minecraft.vercel.app/',
-    source_code_link2: 'https://github.com/IdanKfir/Minecraft-Clone',
+    source_code_link: 'https://github.com/IdanKfir/Minecraft-Clone',
+    source_code_link2: 'https://ik-minecraft.vercel.app/',
   },
   {
     name: 'Github Finder',
