@@ -181,7 +181,7 @@ const testimonials = [
   {
     testimonial:
       'I thought it was impossible to make a website as beautiful as our product, but Idan proved me wrong.',
-    name: 'Ariana Grande',
+    name: 'Stacey Maman',
     designation: 'CFO',
     company: 'Acme Co',
     image: 'https://randomuser.me/api/portraits/women/4.jpg',
@@ -189,7 +189,7 @@ const testimonials = [
   {
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like Idan does.",
-    name: 'Chris Brown',
+    name: 'Rami Derulo',
     designation: 'COO',
     company: 'DEF Corp',
     image: 'https://randomuser.me/api/portraits/men/5.jpg',
@@ -197,7 +197,7 @@ const testimonials = [
   {
     testimonial:
       "After Idan optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: 'Lisa Wang',
+    name: 'Cardi Biton',
     designation: 'CTO',
     company: '456 Enterprises',
     image: 'https://randomuser.me/api/portraits/women/6.jpg',
