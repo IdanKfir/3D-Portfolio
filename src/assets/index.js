@@ -39,6 +39,7 @@ import hangman from './hangman.png';
 import githubfinder from './githubfinder.png';
 import houseretail from './houseretail.png';
 import minecraft from './minecraft.png';
+import cocktails from './cocktails.png';
 
 export {
   click,
@@ -78,4 +79,5 @@ export {
   hangman,
   houseretail,
   minecraft,
+  cocktails,
 };

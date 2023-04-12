@@ -31,6 +31,7 @@ import {
   hangman,
   houseretail,
   minecraft,
+  cocktails,
 } from '../assets';
 
 export const navLinks = [
@@ -356,7 +357,8 @@ const projects = [
   },
   {
     name: 'House Retail',
-    description: 'House retail project I built with react',
+    description:
+      'House retail project I built with react, In which you can put your house for sale or rent; upload images to your profile after authentication and the UI compatible on mobile devices too by design.',
     tags: [
       {
         name: 'react',
@@ -374,6 +376,28 @@ const projects = [
     image: houseretail,
     source_code_link: 'https://github.com/IdanKfir/ik-houseretail',
     source_code_link2: 'https://ik-houseretail.netlify.app/',
+  },
+  {
+    name: 'Cocktails Search',
+    description:
+      'Search your favorite cocktail in this search engine for cotkails project.',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'javascript',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'css',
+        color: 'green-text-gradient',
+      },
+    ],
+    image: cocktails,
+    source_code_link: 'https://github.com/IdanKfir/Cocktails',
+    source_code_link2: 'https://thecocktailsik.netlify.app/',
   },
 ];
 
