@@ -241,7 +241,7 @@ const projects = [
         color: 'green-text-gradient',
       },
       {
-        name: 'scss',
+        name: 'express',
         color: 'pink-text-gradient',
       },
     ],
@@ -270,7 +270,7 @@ const projects = [
   {
     name: '3D Shirt Model',
     description:
-      "A project that has a 3D-Shirt-Model which is responsive, has Color changes, texture and you can upload logo to the model. I was trying to use OpenAI till they decided their API Isn' so open anymore.",
+      "A project that has a 3D-Shirt-Model which is responsive, has Color changes, texture and you can upload logo to the model. I was trying to use OpenAI till they decided their API Isn't so open anymore.",
     tags: [
       {
         name: 'react',
