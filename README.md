@@ -3,3 +3,6 @@
 
 ## Demo - https://ik3d.vercel.app/
 
+
+### Finished App
+![Finished App](https://github.com/IdanKfir/3D-Portfolio/blob/main/3df.gif)
